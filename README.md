@@ -1,8 +1,7 @@
 # Cybersecurity
 I started my project by taking ( Juice Shop ) as my mock based web application https://github.com/juice-shop/juice-shop.git
-Using command prompt I cloned the file in my local machine and installed npm. After which I ran the program on http://localhost:3000
-Once online i ran the link in OWASP ZAP and located vulnerabilities
-[My work.txt](https://github.com/user-attachments/files/18360785/My.work.txt)
+Using command prompt I cloned the file in my local machine and installed npm [My work.txt]. After which I ran the program on http://localhost:3000
+Once online i ran the link in OWASP ZAP and located vulnerabilities https://github.com/user-attachments/files/18360785/My.work.txt
 
 Security Improvement Focus Areas
  1. Cross-Site Scripting (XSS)
